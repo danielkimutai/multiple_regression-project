@@ -31,13 +31,14 @@
 - long - Longitude coordinate
 - sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
 -  sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
+
 # Interpreting our models
 
 ### which variable/aspect has the highest  impacct on price?
- - we can see that our grade has a high impact on price because it is mostly correlated with price
+ -  grade has a high impact on price because it is mostly correlated with price
 
  ### which other variables impact our prices?
- we can see that sqft_living,sqft_living15,lat and bathrooms are among other variables  that influences our prices 
+ - sqft_living,sqft_living15,lat and bathrooms are among other variables  that influences our prices 
  ### which model gives the highest variation/accuracy that will help us predict prices in the future?
  MODEL4 gives because  Grade, sqft_living,,latitude,floors,condition  and bathrooms are the best fit for a multiple regression model. These features are highly correlated with price, have relatively low multicollinearity, and can together account for more than half of the variability of price. All multiple regression assumptions are satisfied with these features include
  ## CONCLUSION
