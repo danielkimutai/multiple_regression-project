@@ -2,7 +2,7 @@
 # 
 
 # BUSINESS PROBLEM
-### Rirko  has decided to venture in to the field of real estate constultancy that will help  buyers to get houses  and sellers to get the right price for their houses,as a data scientist I have been tasked to come up with insights that will assist the firm know the best prices based on different aspects or characteristics of the houses available.In order to come up with clear insights that will have impact ,I will apply my analysis based on EDA,Linear regression and Multiole regression modeling.I came up with the following questions to help  guide me during my analysis.The aim of this project is to develop a multiple regression model than can predict a house's price 
+### Rirko LTD has decided to venture in to the field of real estate constultancy that will help  buyers to get houses  and sellers to get the right price for their houses,as a data scientist I have been tasked to come up with insights that will assist the firm know the best prices based on different aspects or characteristics of the houses available.In order to come up with clear insights that will have impact ,I will apply my analysis based on EDA,Linear regression and Multiole regression modeling.I came up with the following questions to help  guide me during my analysis.The aim of this project is to develop a multiple regression model than can predict a house's price 
  ### which variable/aspect has the highest  impacct on price?
  ### which other variables impact our prices?
  ### which model gives the highest variation/accuracy that will help us predict prices in the future?
